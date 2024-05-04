@@ -106,12 +106,11 @@ Features
 Help/Feedback/BUGs
 --------------------------
 
-* For questions about usage, suggestions, or to provide general feedback, please see the `Mailing List <http://groups.google.com/group/scikit-rf>`_ or post in the user channel on the `scikit-rf slack <https://scikit-rf.slack.com>`_
+* For questions about usage, suggestions, or to provide general feedback, please see the `GitHub Discussion section  <https://github.com/scikit-rf/scikit-rf/discussions>`_ or post in the `scikit-rf Matrix channel <https://app.element.io/#/room/#scikit-rf:matrix.org>`_
 
 
 * If you find a problem in scikit-rf, please post an issue to the `Issue Tracker <https://github.com/scikit-rf/scikit-rf/issues>`_
 
-* Still need help? Contact me at **alexanderarsenovic at gmail.com**
 
 
 

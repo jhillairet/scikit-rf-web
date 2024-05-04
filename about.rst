@@ -221,7 +221,7 @@ The French Alternative Energies and Atomic Energy Commission or CEA (French: Com
 |
 |
 
-If your lab, company, or organization uses **scikit-rf** and would like to be listed please contact me at **julien.hillairet at gmail.com**
+If your lab, company, or organization uses **scikit-rf** and would like to be listed please contact **julien.hillairet at gmail.com**
 
 |
 |
