@@ -29,7 +29,7 @@ anaconda (recommended)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The easiest way to install scikit-rf is to first install 
-`anaconda <http://continuum.io/downloads>`_. Once anaconda is installe,  you can 
+`anaconda <http://continuum.io/downloads>`_. Once anaconda is installed, you can 
 install scikit-rf from the `conda-forge <https://conda-forge.github.io/>`_ channel by entering the following into a terminal::
 
     conda install -c conda-forge  scikit-rf
