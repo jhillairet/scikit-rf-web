@@ -28,6 +28,7 @@ extensions = ['sphinx.ext.doctest',
               'sphinx.ext.todo',
               'sphinx.ext.imgmath',
               'sphinx.ext.ifconfig',
+              'sphinx_carousel.carousel',
               ]
 
 # Add any paths that contain templates here, relative to this directory.

@@ -61,12 +61,23 @@ examples, see the `Documentation <http://scikit-rf.readthedocs.org/>`_
 Some Examples 
 --------------------------
 
-.. raw:: html
-   :file: carousel_simple.html
-   
-|
+.. carousel::
+    :show_controls:
+    :show_indicators:
+    :show_fade:
+    :show_dark:
 
+    .. image:: _static/example1.png
 
+    .. image:: _static/example2.png
+
+    .. image:: _static/example3.png
+
+    .. image:: _static/example4.png
+
+    .. image:: _static/example5.png
+
+    .. image:: _static/example6.png
 
 
 -------------
