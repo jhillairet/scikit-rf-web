@@ -84,33 +84,36 @@ Some Examples
 Features
 -------------
 
-* Microwave Network Operations:
+* `Microwave Network Operations <https://scikit-rf.readthedocs.io/en/latest/examples/index.html#network-theory>`_:
     * Read/Write touchstone (.s2p, s?p) files
     * Arithmetic operations on scattering parameters
     * Cascade/De-embed 2-port networks
     * Frequency and port slicing and  concatenation.
     * Connect n-port networks
     * s/z/y/abcd/t - parameter conversion
-* Sets of Networks:
-    * Statistical properties of NetworkSets 
-    * Methods to sort and visualize set behavior
-* GUI support through `qtapps`_ 
-    * modular, re-useable apps
-    * supports  data retrieval, plotting,  calibration and more. 
-* Plotting abilities:
-    * Rectangular Plots ( dB, mag, Phase, group delay)
+* `Plotting abilities <https://scikit-rf.readthedocs.io/en/latest/tutorials/Plotting.html>`_:
+    * Rectangular Plots (dB, mag, Phase, group delay)
     * Smith Chart
     * Automated Uncertainty bounds
-* Offline Calibration:
+* `Metrology and Offline Calibration <https://scikit-rf.readthedocs.io/en/latest/examples/index.html#metrology-and-calibration>`_:
    * One-Port: SOL, Least Squares, SDDL
    * Two-Port: TRL, Multiline TRL, SOLT, Unknown Thru,  8/16-Term
    * Partial : Enhanced Response, One-Port Two-Path
-* Virtual Instruments (completeness varies by model)
-    * VNAs: PNA, PNAX, ZVA, HP8510, HP8720
-    * SA: HP8500
-    * Others: ESP300
+* `Sets of Networks <https://scikit-rf.readthedocs.io/en/latest/tutorials/NetworkSet.html>`_:
+    * Statistical properties of NetworkSets 
+    * Methods to sort and visualize set behavior
+* `Circuit builder <https://scikit-rf.readthedocs.io/en/latest/tutorials/Circuit.html>`_
 * Transmission Line Physics: 
     * Coax, CPW, Freespace, RectangularWaveguide, DistributedCircuit
+* `Vector Fitting <https://scikit-rf.readthedocs.io/en/latest/tutorials/VectorFitting.html>`_
+* `Q-Factor calculations <https://scikit-rf.readthedocs.io/en/latest/tutorials/Q-Factor.html>`_
+* GUI support through `qtapps`_ 
+    * modular, re-useable apps
+    * supports  data retrieval, plotting,  calibration and more. 
+* Virtual Instruments (completeness varies by model)
+    * VNAs: PNA, PNAX, ZVA, HP8510, HP8720, NanoVNAs
+    * SA: HP8500
+    * Others: ESP300
 
 
 --------------------------
